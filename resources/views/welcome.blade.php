@@ -70,10 +70,10 @@
                     @auth
                         <a href="{{ url('/home') }}">Home</a>
                     @else
-                        <a href="{{ route('login') }}">Login</a>
+                        <a href="{{ route('login') }}"></a>
 
                         @if (Route::has('register'))
-                            <a href="{{ route('register') }}">Register</a>
+                            <a href="{{ route('register') }}"></a>
                         @endif
                     @endauth
                 </div>
@@ -81,9 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    JH DevWorks
+                    JH De<a style="text-decoration: none; color: #444;" href="{{ route('welcome') }}">v</a>Works
                 </div>
-
+                <h4><a style="text-decoration: none; color: #444;" href="{{ route('about') }}">[click to enter]</a></h4>
                 <div class="links">
 
                 </div>
