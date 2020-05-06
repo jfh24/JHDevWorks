@@ -83,6 +83,24 @@
         <p> My focus is on developing innovative software solutions to solve real world business issues. <br>I excel in quick learning and application of new concepts and pride myself on understanding the structure of Technologies.</p>
         <br>
 
+        <div class="row">
+          <h3>How can I help you today?</h3>
+
+            <div class="col-sm">
+                Project Design Consulting
+            </div>
+            <div class="col-sm">
+                Full Stack Web Development
+            </div>
+            <div class="col-sm">
+              QA Testing & Bug Fixes
+            </div>
+            <div class="col-sm">
+              Website Maintenance & Upgrades
+            </div>
+          </ul>
+        </div>
+
       </div>
   </body>
 </html>

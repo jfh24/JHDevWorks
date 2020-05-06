@@ -68,7 +68,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    JH De<a style="text-decoration: none; cursor: default; color: #636b6f;" href="{{ route('login') }}">v</a>Works
+                    JH De<a style="text-decoration: none; cursor: text; color: #636b6f;" href="{{ route('login') }}">v</a>Works
                 </div>
                 <h4><a style="text-decoration: none; color: #636b6f;" href="{{ route('about') }}">[click to enter]</a></h4>
                 <div class="links">
